@@ -131,3 +131,4 @@ detect_bpm(uri, on_complete)
 
 ml = GObject.MainLoop()
 ml.run()
+
